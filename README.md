@@ -85,4 +85,6 @@ The combination of **Abacus TOR** and the **Abacus login** process is your gatew
 
 
 
-Update:  Monday 21 July 2025 The link is responsive and live again.
+
+
+Update: Good news! The link is alive and well.
