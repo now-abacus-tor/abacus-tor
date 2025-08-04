@@ -87,4 +87,6 @@ The combination of **Abacus TOR** and the **Abacus login** process is your gatew
 
 
 
-Update: Good news! The link is alive and well.
+
+
+Update:  04 August url is back up and running
